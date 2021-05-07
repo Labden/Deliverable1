@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/labden/.dotnet/store/|arch|/|tfm|",
+      "/Users/labden/.nuget/packages"
+    ]
+  }
+}
